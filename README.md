@@ -1,6 +1,6 @@
 # Email Anomaly Detection
 
-This is a project to detect anomalies (i.e., spam, phishing) in email datasets using machine learning and features extracted from email headers. A total of 96 features are extracted. Both supervised and unsupervised learning is used, with supervised learning achieving 97-99%+ accuracy and unsupervised achieving 87-90% accuracy. 
+This is a project to detect anomalies (i.e., spam, phishing) in email datasets using machine learning and features extracted from email headers. A total of 94 features are extracted. Both supervised and unsupervised learning is used, with supervised learning achieving 97-99%+ accuracy and unsupervised achieving 87-90% accuracy. 
 
 Two datasets are used, which were obtained from:
 (1) https://plg.uwaterloo.ca/~gvcormac/treccorpus07/about.html
